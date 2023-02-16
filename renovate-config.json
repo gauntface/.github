@@ -4,6 +4,7 @@
     "config:base",
     "group:all",
     "schedule:nonOfficeHours",
-    ":disableDependencyDashboard"
+    ":disableDependencyDashboard",
+    "helpers:pinGitHubActionDigests"
   ]
 }
